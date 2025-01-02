@@ -1,5 +1,5 @@
 - 👋 Hi, I’m nithish.ra
-- 👀 I’m interested in computer science and cricket
+- 👀 I’m interested in computer science,robotics and cricket
 - 🌱 I’m currently learning computer science in SSN college engineering 
 - 📫 How to reach me phone:9344991313
                       email:nithish2370014@ssn.edu.in
