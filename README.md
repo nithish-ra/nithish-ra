@@ -59,15 +59,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nithish-ra&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish-ra&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -77,21 +69,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Java Vulnerability Detection Tool
-Static + Dynamic vulnerability analysis tool for secure Java development.
-
-### 🔹 Lost & Found Dashboard
-Vue.js + REST API dashboard for tracking lost/found items.
-
-### 🔹 Vehicle & Weather Detection
-ML + Image Processing based classification system.
-
-### 🔹 E-Commerce Java Project
-Shopping platform with cart and secure checkout.
-
----
 
 ## 🏆 Achievements
 
