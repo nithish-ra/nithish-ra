@@ -4,10 +4,10 @@
 
 **Integrated M.Tech CSE · SSN College of Engineering, Chennai**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://nithish-ra.github.io/nithish_portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithish-ra-488062306)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithish-ra)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nithish-ra)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/nithish-ra](https://leetcode.com/u/nithish_ra_1906/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithish2370014@ssn.edu.in)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nithish-ra&label=Profile%20Views&color=0e75b6&style=flat)
@@ -140,7 +140,7 @@ I'm a motivated software developer and researcher pursuing an **Integrated M.Tec
 - 🥇 **Captain** — DAV Public School Cricket Team (Student of the Class Award)
 - 🏆 **TNCA League 3rd Division** — Primary Wicketkeeper-Batsman
 - 🌟 Represented **Tamil Nadu** in State-Level Cricket (U-12, U-14, U-16, U-19)
-- 🎙️ [Featured Interview](https://your-interview-link) — On cricket journey, discipline & strategy
+- 🎙️ [Featured Interview](https://youtu.be/eijEw3jorwg?si=_CBmLBlV4DJlwj9s) — On cricket journey, discipline & strategy
 
 ---
 
